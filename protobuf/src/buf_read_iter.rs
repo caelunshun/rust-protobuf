@@ -231,7 +231,7 @@ impl<'ignore> BufReadIter<'ignore> {
                 return Err(ProtobufError::WireError(WireError::UnexpectedEof));
             }
 
-            let r = bytes.slice(self.pos_within_buf, end);
+            let r = bytes.slice(self.pos_within_buf..end);
             self.pos_within_buf += len;
             Ok(r)
         } else {
