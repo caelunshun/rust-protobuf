@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="rust_protobuf"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rust_protobuf">
+				<Option output="/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/rust_protobuf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 rust_protobuf"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rust_protobuf/fast">
+				<Option output="/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/rust_protobuf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 rust_protobuf/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/caelum/CLionProjects/rust-protobuf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/CHANGELOG.md">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/CONTRIBUTING.md">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/Cargo.toml">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/FAQ.md">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/LICENSE.txt">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/README.md">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/ci/env-debug.sh">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/ci/install-protobuf.sh">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/ci/run.sh">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/interop/cxx/interop.cc">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/perftest/bytes/Cargo.toml">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/perftest/bytes/benches/vs.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/perftest/bytes/build.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/perftest/bytes/src/lib.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/perftest/bytes/src/messages.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/perftest/vs-cxx/perftest-cxx.cxx">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/proto/google/protobuf/any.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/proto/google/protobuf/api.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/proto/google/protobuf/compiler/plugin.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/proto/google/protobuf/descriptor.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/proto/google/protobuf/duration.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/proto/google/protobuf/empty.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/proto/google/protobuf/fetch-protos.sh">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/proto/google/protobuf/field_mask.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/proto/google/protobuf/source_context.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/proto/google/protobuf/struct.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/proto/google/protobuf/timestamp.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/proto/google/protobuf/type.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/proto/google/protobuf/wrappers.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/proto/rustproto.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen-pure-test/Cargo.toml">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen-pure-test/build.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen-pure-test/src/common/mod.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen-pure-test/src/lib.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen-pure-test/test.sh">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen-pure/Cargo.toml">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen-pure/LICENSE.txt">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen-pure/README.md">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen-pure/src/bin/parse-and-typecheck.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen-pure/src/convert.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen-pure/src/lib.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen-pure/src/model.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen-pure/src/parser.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen-pure/src/test_against_protobuf_protos.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/Cargo.toml">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/LICENSE.txt">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/README.md">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/amend_io_error_util.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/bin/protobuf-bin-gen-rust-do-not-use.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/bin/protoc-gen-rust.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/case_convert.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/code_writer.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/compiler_plugin.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/customize.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/enums.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/extensions.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/field.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/file.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/file_and_mod.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/file_descriptor.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/inside.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/lib.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/map.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/message.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/oneof.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/protobuf_name.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/rust.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/rust_name.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/rust_types_values.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/scope.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/serde.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/strx.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/syntax.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-codegen/src/well_known_types.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-fuzz/Cargo.toml">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-fuzz/build.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-fuzz/fuzz/Cargo.toml">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-fuzz/fuzz/fuzz_targets/all.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-fuzz/fuzz/fuzz_targets/empty_message.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-fuzz/fuzz/fuzz_targets/empty_message_read.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-fuzz/fuzz/fuzz_targets/map.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-fuzz/fuzz/fuzz_targets/map_read.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-fuzz/fuzz/fuzz_targets/repeated.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-fuzz/fuzz/fuzz_targets/repeated_read.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-fuzz/fuzz/fuzz_targets/singular.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-fuzz/fuzz/fuzz_targets/singular_read.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-fuzz/src/all_types_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-fuzz/src/lib.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test-common/Cargo.toml">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test-common/src/build.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test-common/src/hex.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test-common/src/json_tests.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test-common/src/lib.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test-common/src/reflect_tests.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test-common/src/serialize_deserialize_tests.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test-common/src/text_format_tests.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/Cargo.toml">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/README.md">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/build.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/mod.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_basic.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_basic_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_carllerche_bytes.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_carllerche_bytes_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_default.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_default_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_enable_lite_runtime.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_enable_lite_runtime_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_enum_alias.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_enum_alias_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_enum_unknown_values_preserved.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_enum_unknown_values_preserved_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_enum_values.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_enum_values_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_ext.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_ext_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_fmt_json.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_fmt_json_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_fmt_json_well_known.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_fmt_json_well_known_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_fmt_text_format.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_fmt_text_format_0.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_fmt_text_format_0_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_fmt_text_format_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_generate_accessors.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_generate_accessors_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_ident.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_ident_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_import_descriptor.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_import_descriptor_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_lite_runtime.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_lite_runtime_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_map_carllerche.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_map_carllerche_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_map_simple.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_map_simple_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_nonunique_enum.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_nonunique_enum_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_oneof.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_oneof_expose.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_oneof_expose_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_oneof_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_oneof_recursive.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_oneof_recursive_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_reflect.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_reflect_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_repeated_field_vec.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_repeated_field_vec_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_repeated_packed.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_repeated_packed_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_root.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_root_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_serde_derive.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_serde_derive_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_singular_concat.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_singular_concat_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_singular_field_option.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_singular_field_option_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_sync.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_sync_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_well_known_types.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/common/v2/test_well_known_types_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/mod.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/README.md">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/import-tests.sh">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_arena.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_custom_options.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_drop_unknown_fields.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_embed_optimize_for.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_empty.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_import.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_import_lite.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_import_public.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_import_public_lite.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_lazy_dependencies.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_lazy_dependencies_custom_option.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_lazy_dependencies_enum.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_lite.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_lite_imports_nonlite.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_mset.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_mset_wire_format.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_no_arena.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_no_arena_import.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_no_arena_lite.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_no_field_presence.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_no_generic_services.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_optimize_for.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_preserve_unknown_enum.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_preserve_unknown_enum2.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_proto3_arena.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_proto3_arena_lite.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_proto3_lite.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/google/protobuf/unittest_well_known_types.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/interop/json.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/interop/mod.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/lib.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/struct.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test-sanitize-file-name_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_carllerche_bytes_default_value.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_carllerche_bytes_default_value_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_default_values.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_default_values_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_group_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_import_nested_imported_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_import_nested_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_import_nonunique_1_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_import_nonunique_2_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_import_nonunique_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_import_pkg_nested_imported_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_import_pkg_nested_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_import_root_imported_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_import_root_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_oneof_default_value.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_oneof_default_value_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_oneof_group.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_oneof_group_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_required.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_required_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_special~characters file{name}_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_unknown_suffix.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v2/test_unknown_suffix_pb.proto3">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v3/test_ident_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v3/test_issue_190_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v3/test_zeros_are_not_written.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/src/v3/test_zeros_are_not_written_pb.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf-test/test.sh">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/Cargo.toml">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/LICENSE.txt">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/README.md">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/benches/coded_input_stream.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/benches/coded_output_stream.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/build.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/regenerate.sh">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/buf_read_iter.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/buf_read_or_reader.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/cached_size.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/chars.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/clear.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/core.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/descriptor.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/enums.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/error.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/ext.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/json/base64.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/json/float.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/json/json_name.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/json/mod.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/json/parse.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/json/print.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/json/rfc_3339.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/json/well_known_wrapper.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/lazy.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/lib.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/misc.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/oneof.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/paginate.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/plugin.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/prelude.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/accessor/map.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/accessor/mod.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/accessor/repeated.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/accessor/singular.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/enums.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/field.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/find_message_or_enum.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/map.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/message.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/mod.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/reflect_deep_eq.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/repeated.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/rt.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/runtime_type_box.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/runtime_type_dynamic.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/runtime_types.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/transmute_eq.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/type_dynamic.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/types.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/reflect/value.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/repeated.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/rt.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/rustproto.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/singular.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/stream.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/text_format/lexer/float.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/text_format/lexer/int.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/text_format/lexer/json_number_lit.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/text_format/lexer/lexer_impl.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/text_format/lexer/loc.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/text_format/lexer/mod.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/text_format/lexer/num_lit.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/text_format/lexer/parser_language.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/text_format/lexer/str_lit.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/text_format/lexer/token.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/text_format/lexer/tokenizer.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/text_format/mod.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/text_format/parse.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/text_format/print.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/unknown.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/varint.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/well_known_types/any.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/well_known_types/api.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/well_known_types/duration.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/well_known_types/empty.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/well_known_types/field_mask.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/well_known_types/mod.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/well_known_types/source_context.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/well_known_types/struct_pb.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/well_known_types/timestamp.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/well_known_types/type_pb.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/well_known_types/wrappers.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/wire_format.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protobuf/src/zigzag.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protoc-rust/Cargo.toml">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protoc-rust/LICENSE.txt">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protoc-rust/README.md">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protoc-rust/src/lib.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protoc/Cargo.toml">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protoc/LICENSE.txt">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protoc/README.md">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protoc/src/lib.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protoc/test-protoc/Cargo.toml">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protoc/test-protoc/build.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protoc/test-protoc/src/data.proto">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protoc/test-protoc/src/lib.rs">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/protoc/test.sh">
+			<Option target="rust_protobuf"/>
+		</Unit>
+		<Unit filename="/home/caelum/CLionProjects/rust-protobuf/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/rust_protobuf.dir/interop/cxx/interop.cc.o CMakeFiles/rust_protobuf.dir/perftest/vs-cxx/perftest-cxx.cxx.o  -o rust_protobuf 
